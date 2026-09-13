@@ -14,3 +14,5 @@ En este repositorio se documenta la práctica 1, enfocada en el dominio de Git y
 -Se practicó el flujo de trabajo basado en ramas creando una rama secundaria, abriendo un Pull Request en GitHub y ejecutando su fusión.
 3. Conclusiones:
 El uso de sistemas de control de versiones como Git es muy útil, ya que evita la pérdida de información, permite rastrear errores con precisión y facilita la colaboración segura sin interferir en el código fuente principal.
+## Notas adicionales
+Práctica desarrollada en ESCOM IPN.
