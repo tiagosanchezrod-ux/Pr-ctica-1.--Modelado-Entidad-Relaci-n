@@ -1,1 +1,2 @@
 Archivo de codigo inicial de la practica
+Agregando lógica y funciones adicionales al programa
