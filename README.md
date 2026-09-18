@@ -8,9 +8,9 @@ Carrera: Ingeniería en Sistemas Computacionales
 
 ## Índice de Documentos
 
-- [Código Base](./codigo_base.txt)
-- [Configuración Docker Compose](./compose.yaml)
-- [Documentación de la Práctica](./Documentaacion%20practica/)
+- [Práctica 1](./Documentaacion%20practica/Pr%C3%A1ctica%201.pdf)
+- [Ejercicio 3](./Documentaacion%20practica/Ejercico3%20Practica%201%20BD%20ISC%20.pdf)
+- [Ejercicio 5](./Documentaacion%20practica/Ejercicio%205%20Practica1.pdf)
 
 # Práctica 1: Control de Versiones
 
