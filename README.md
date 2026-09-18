@@ -1,3 +1,17 @@
+# Práctica 1: Modelado Entidad-Relación
+
+Nombre completo: Sánchez Rodríguez Santiago y Casasola Avalos Diana Valeria
+Grupo: 3CV2  
+Carrera: Ingeniería en Sistemas Computacionales  
+
+---
+
+## Índice de Documentos
+
+- [Código Base](./codigo_base.txt)
+- [Configuración Docker Compose](./compose.yaml)
+- [Documentación de la Práctica](./Documentaacion%20practica/)
+
 # Práctica 1: Control de Versiones
 
 Alumnos: Santiago Sánchez Rodríguez y Casasola Avalos Diana Valeria
